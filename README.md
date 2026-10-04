@@ -9,7 +9,7 @@ Student Performance Analytics is a data analysis project that explores student a
 
 ## 📊 Dataset Used
 - Raw data: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
-- Clean data: 
+- Clean data: https://github.com/afifahasfaa/student_performance_analytics/blob/main/student%20performance%20cleaned.csv
 
 ## 💡 What I learned
 - How to perform data cleaning and preprocessing.
@@ -31,5 +31,5 @@ Student Performance Analytics is a data analysis project that explores student a
 10. How do tutoring sessions relate to examination scores?
 
 ## 📎 Preview
-![Dashboard](Screenshot%202026-09-25%20092636.png)
+![Dashboard](page1.png)
  
