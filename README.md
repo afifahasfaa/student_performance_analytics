@@ -32,4 +32,5 @@ Student Performance Analytics is a data analysis project that explores student a
 
 ## 📎 Preview
 ![Dashboard](page1.png)
+![Dashboard](page2.png)
  
