@@ -8,7 +8,7 @@
 Student Performance Analytics is a data analysis project that explores student academic performance and its relationship with various academic and learning-related factors. The project focuses on analyzing examination scores based on gender, attendance levels, study hours, previous academic performance, school type, teacher quality, parental involvement, internet access, and tutoring sessions. The analysis was conducted using SQL for data exploration and querying, while Power BI was used to develop an interactive dashboard consisting of two main sections: Student Overview and Factors of Study. The dashboard provides insights into student demographics, academic performance indicators, and the relationship between learning-related factors and examination scores.
 
 ## 📊 Dataset Used
-- Raw data: 
+- Raw data: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 - Clean data: 
 
 ## 💡 What I learned
